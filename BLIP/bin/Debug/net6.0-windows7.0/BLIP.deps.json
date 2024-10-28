@@ -1,0 +1,138 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BLIP/1.0.0": {
+        "dependencies": {
+          "Magick.NET-Q16-x64": "14.0.0",
+          "War3Net.Drawing.Blp": "5.6.1"
+        },
+        "runtime": {
+          "BLIP.dll": {}
+        }
+      },
+      "Magick.NET-Q16-x64/14.0.0": {
+        "dependencies": {
+          "Magick.NET.Core": "14.0.0"
+        },
+        "runtime": {
+          "lib/netstandard20/Magick.NET-Q16-x64.dll": {
+            "assemblyVersion": "14.0.0.0",
+            "fileVersion": "14.0.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-musl-x64/native/Magick.Native-Q16-x64.dll.so": {
+            "rid": "linux-musl-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/Magick.Native-Q16-x64.dll.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/Magick.Native-Q16-x64.dll.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/Magick.Native-Q16-x64.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "7.1.1.38"
+          }
+        }
+      },
+      "Magick.NET.Core/14.0.0": {
+        "runtime": {
+          "lib/netstandard20/Magick.NET.Core.dll": {
+            "assemblyVersion": "14.0.0.0",
+            "fileVersion": "14.0.0.0"
+          }
+        }
+      },
+      "Microsoft.Win32.SystemEvents/6.0.0": {},
+      "System.Drawing.Common/6.0.0": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "6.0.0"
+        }
+      },
+      "War3Net.Common/5.6.1": {
+        "dependencies": {
+          "System.Drawing.Common": "6.0.0"
+        },
+        "runtime": {
+          "lib/net5.0/War3Net.Common.dll": {
+            "assemblyVersion": "5.6.1.0",
+            "fileVersion": "5.6.1.0"
+          }
+        }
+      },
+      "War3Net.Drawing.Blp/5.6.1": {
+        "dependencies": {
+          "War3Net.Common": "5.6.1"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/War3Net.Drawing.Blp.dll": {
+            "assemblyVersion": "5.6.1.0",
+            "fileVersion": "5.6.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BLIP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Magick.NET-Q16-x64/14.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aWbVZP7gCJqCHu5xfEThSuD+WSmr95Z8KKL+PxXNHUCtATh5u+mRFBzPVcalFExh+eQ4N2bwxl59HdIUrBgvug==",
+      "path": "magick.net-q16-x64/14.0.0",
+      "hashPath": "magick.net-q16-x64.14.0.0.nupkg.sha512"
+    },
+    "Magick.NET.Core/14.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xChjeg8OT6l/ZBFJl+8ojSQQhKYgMt1f9X3g0HJ6sTvWZxj3j0eZrsKCguFSBAtz/gsdzpaSjJBKGtP5ZSaJhA==",
+      "path": "magick.net.core/14.0.0",
+      "hashPath": "magick.net.core.14.0.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hqTM5628jSsQiv+HGpiq3WKBl2c8v1KZfby2J6Pr7pEPlK9waPdgEO6b8A/+/xn/yZ9ulv8HuqK71ONy2tg67A==",
+      "path": "microsoft.win32.systemevents/6.0.0",
+      "hashPath": "microsoft.win32.systemevents.6.0.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NfuoKUiP2nUWwKZN6twGqXioIe1zVD0RIj2t976A+czLHr2nY454RwwXs6JU9Htc6mwqL6Dn/nEL3dpVf2jOhg==",
+      "path": "system.drawing.common/6.0.0",
+      "hashPath": "system.drawing.common.6.0.0.nupkg.sha512"
+    },
+    "War3Net.Common/5.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-imLxetgDVtVtHhZWUgd0Y0iWWG0LNH3lMC/o9YMUZHAOdnOO9gqUW4G+TGXmXsHxVzzFdhx23TWJPoJbNt2mLw==",
+      "path": "war3net.common/5.6.1",
+      "hashPath": "war3net.common.5.6.1.nupkg.sha512"
+    },
+    "War3Net.Drawing.Blp/5.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aKSKAYqsiUX234BMuU6ihR4pWxmYqS5HWgmnBnWpuj4ImTX32I3GTvd4VORgbxs93B7PC9LT0JYBJ5tAkEDx3Q==",
+      "path": "war3net.drawing.blp/5.6.1",
+      "hashPath": "war3net.drawing.blp.5.6.1.nupkg.sha512"
+    }
+  }
+}

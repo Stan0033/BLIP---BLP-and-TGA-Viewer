@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "25CDoimKF10=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stan0033_laptop\\source\\repos\\BLIP\\BLIP\\BLIP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stan0033_laptop\\.nuget\\packages\\magick.net-q16-x64\\14.0.0\\magick.net-q16-x64.14.0.0.nupkg.sha512",
+    "C:\\Users\\stan0033_laptop\\.nuget\\packages\\magick.net.core\\14.0.0\\magick.net.core.14.0.0.nupkg.sha512",
+    "C:\\Users\\stan0033_laptop\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\stan0033_laptop\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\stan0033_laptop\\.nuget\\packages\\war3net.common\\5.6.1\\war3net.common.5.6.1.nupkg.sha512",
+    "C:\\Users\\stan0033_laptop\\.nuget\\packages\\war3net.drawing.blp\\5.6.1\\war3net.drawing.blp.5.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
