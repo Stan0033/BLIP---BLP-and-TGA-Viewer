@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "25CDoimKF10=",
+  "dgSpecHash": "+Hnjk9ctWtE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\stan0033_laptop\\source\\repos\\BLIP\\BLIP\\BLIP.csproj",
+  "projectFilePath": "C:\\Github\\BLIP---BLP-and-TGA-Viewer\\BLIP\\BLIP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stan0033_laptop\\.nuget\\packages\\magick.net-q16-x64\\14.0.0\\magick.net-q16-x64.14.0.0.nupkg.sha512",
     "C:\\Users\\stan0033_laptop\\.nuget\\packages\\magick.net.core\\14.0.0\\magick.net.core.14.0.0.nupkg.sha512",

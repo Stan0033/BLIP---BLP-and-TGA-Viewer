@@ -1,0 +1,13 @@
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\publish\BLIP.exe
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\publish\BLIP.dll
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\publish\BLIP.deps.json
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\publish\BLIP.runtimeconfig.json
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\publish\BLIP.pdb
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\publish\Magick.NET-Q16-x64.dll
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\publish\Magick.NET.Core.dll
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\publish\War3Net.Common.dll
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\publish\War3Net.Drawing.Blp.dll
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\publish\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\publish\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\publish\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\publish\runtimes\win-x64\native\Magick.Native-Q16-x64.dll

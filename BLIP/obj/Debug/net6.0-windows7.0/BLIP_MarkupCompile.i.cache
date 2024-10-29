@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\stan0033_laptop\source\repos\BLIP\BLIP\obj\Debug\net6.0-windows7.0\
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\obj\Debug\net6.0-windows7.0\
 BLIP
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\stan0033_laptop\source\repos\BLIP\BLIP\App.xaml
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\App.xaml
 11407045341
 1-837405022
 5-1308837927
 199-821207483
 MainWindow.xaml;
 
-False
+True
 

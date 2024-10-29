@@ -1,0 +1,13 @@
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\Release\net6.0-windows7.0\app.publish\BLIP.exe
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\Release\net6.0-windows7.0\app.publish\BLIP.dll
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\Release\net6.0-windows7.0\app.publish\BLIP.deps.json
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\Release\net6.0-windows7.0\app.publish\BLIP.runtimeconfig.json
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\Release\net6.0-windows7.0\app.publish\BLIP.pdb
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\Release\net6.0-windows7.0\app.publish\Magick.NET-Q16-x64.dll
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\Release\net6.0-windows7.0\app.publish\Magick.NET.Core.dll
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\Release\net6.0-windows7.0\app.publish\War3Net.Common.dll
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\Release\net6.0-windows7.0\app.publish\War3Net.Drawing.Blp.dll
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\Release\net6.0-windows7.0\app.publish\runtimes\linux-musl-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\Release\net6.0-windows7.0\app.publish\runtimes\linux-x64\native\Magick.Native-Q16-x64.dll.so
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\Release\net6.0-windows7.0\app.publish\runtimes\osx-x64\native\Magick.Native-Q16-x64.dll.dylib
+C:\Github\BLIP---BLP-and-TGA-Viewer\BLIP\bin\Release\net6.0-windows7.0\app.publish\runtimes\win-x64\native\Magick.Native-Q16-x64.dll

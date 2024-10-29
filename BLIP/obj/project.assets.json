@@ -296,11 +296,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stan0033_laptop\\source\\repos\\BLIP\\BLIP\\BLIP.csproj",
+      "projectUniqueName": "C:\\Github\\BLIP---BLP-and-TGA-Viewer\\BLIP\\BLIP.csproj",
       "projectName": "BLIP",
-      "projectPath": "C:\\Users\\stan0033_laptop\\source\\repos\\BLIP\\BLIP\\BLIP.csproj",
+      "projectPath": "C:\\Github\\BLIP---BLP-and-TGA-Viewer\\BLIP\\BLIP.csproj",
       "packagesPath": "C:\\Users\\stan0033_laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stan0033_laptop\\source\\repos\\BLIP\\BLIP\\obj\\",
+      "outputPath": "C:\\Github\\BLIP---BLP-and-TGA-Viewer\\BLIP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

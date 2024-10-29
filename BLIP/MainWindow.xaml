@@ -5,10 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BLIP"
         mc:Ignorable="d"
+        Loaded="Window_Unloaded"
         ResizeMode="NoResize"
         WindowStartupLocation="CenterScreen"
-        Title="BLIP" Height="450" Width="800">
-    <Canvas Name="MainCanvas" Background="Black" >
-        
-    </Canvas>
+        BorderThickness="0"
+        KeyDown="Window_KeyDown"
+        WindowStyle="SingleBorderWindow"
+        Padding="0" Margin="0"
+        Title="BLIP" Height="512" Width="512" MinHeight="64" MinWidth="64">
+    
+        <Canvas Name="MainCanvas" Background="Black" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0"    />
+
+     
+
 </Window>
